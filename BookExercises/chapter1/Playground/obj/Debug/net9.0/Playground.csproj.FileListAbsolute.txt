@@ -1,0 +1,14 @@
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\bin\Debug\net9.0\Playground.exe
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\bin\Debug\net9.0\Playground.deps.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\bin\Debug\net9.0\Playground.runtimeconfig.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\bin\Debug\net9.0\Playground.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\bin\Debug\net9.0\Playground.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.AssemblyInfoInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.AssemblyInfo.cs
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.csproj.CoreCompileInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\refint\Playground.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\Playground.genruntimeconfig.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Playground\obj\Debug\net9.0\ref\Playground.dll

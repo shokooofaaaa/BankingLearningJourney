@@ -1,0 +1,14 @@
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\bin\Debug\net9.0\Hellocs.exe
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\bin\Debug\net9.0\Hellocs.deps.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\bin\Debug\net9.0\Hellocs.runtimeconfig.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\bin\Debug\net9.0\Hellocs.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\bin\Debug\net9.0\Hellocs.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.AssemblyInfoInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.AssemblyInfo.cs
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.csproj.CoreCompileInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\refint\Hellocs.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\Hellocs.genruntimeconfig.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\Hellocs\obj\Debug\net9.0\ref\Hellocs.dll

@@ -1,0 +1,14 @@
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\bin\Debug\net9.0\balance.exe
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\bin\Debug\net9.0\balance.deps.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\bin\Debug\net9.0\balance.runtimeconfig.json
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\bin\Debug\net9.0\balance.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\bin\Debug\net9.0\balance.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.AssemblyInfoInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.AssemblyInfo.cs
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.csproj.CoreCompileInputs.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\refint\balance.dll
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.pdb
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\balance.genruntimeconfig.cache
+D:\c#\.net book\BankingLearningJourney\BookExercises\chapter1\balance\obj\Debug\net9.0\ref\balance.dll
